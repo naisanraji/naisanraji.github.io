@@ -16,6 +16,7 @@ Education
   * Supervisor: Prof. Gerhard Büttner
 * B.Sc. in Psychology, Goethe-University Frankfurt, 2018
 * Terms abroad at University of Lisbon in Fall 2016 and Summer 2020
+  * Classes attended: contemporary history of Portugal, individual and family systemic interventions, cultural anthropology, introduction to special education
 
 Work experience
 ======
@@ -49,5 +50,8 @@ Leadership
 
 Skills
 ======
-* Portuguese language level B2
 * Statistical computing in R, SPSS and MPlus
+* German native speaker level
+* Portuguese language level B2
+
+
