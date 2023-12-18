@@ -14,3 +14,8 @@ Before that, I received a Masters in Pedagogical and Clinical Psychology (2021) 
 
 Aside from research, I enjoy reading, swimming and cooking. My favourite cuisine is Afghan and Korean.
 
+## Upcoming talk
+Assessment of change in symptom severity of restrictive and repetitive behaviours in preschool children with ASD using behavioral observations and rating scales
+Fri, 22/03/2024 - 10.00
+Talk at the 15th Scientific Meeting Autism Spectrum [WTAS](https://wgas-autismus.org/tagung-wtas/ "Tagung WTAS")
+
