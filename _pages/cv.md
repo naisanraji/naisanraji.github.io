@@ -24,6 +24,7 @@ Work experience
   * Department of Child and Adolescent Psychiatry, Psychosomatics, and Psychotherapy, University Hospital Frankfurt
   * Long term follow up study after randomized controlled study in preschoolers with ASD
   * Duties include: psychological assessment of ASD symptoms, language, comorbidities, adaptive and challenging behaviours
+  * Supervisor: Prof. Christine M. Freitag
 
 * Jul 2020 - Jul 2021: Intern and Student Assistant at the Autism Therapy and Research Center
   * Support in the conceptualization of a long-term study
@@ -46,7 +47,7 @@ Talks
   
 Leadership
 ======
-* Currently leading a team of 6 student assistants and interns
+* Currently leading a team of up to 6 student assistants and interns
 
 Skills
 ======
