@@ -14,8 +14,9 @@ Before that, I received a Master's degree in Pedagogical and Clinical Psychology
 
 Aside from research, I enjoy reading, swimming and cooking. My favourite cuisine is Afghan and Korean.
 
-## Upcoming talk
+## Most recent
+Fri, 22/03/2024 - Talk at the 15th Scientific Meeting Autism Spectrum [WTAS](https://wgas-autismus.org/tagung-wtas/ "Tagung WTAS"):
+
 Assessment of change in symptom severity of restrictive and repetitive behaviours in preschool children with ASD using behavioral observations and rating scales
-Fri, 22/03/2024 - 10.00
-Talk at the 15th Scientific Meeting Autism Spectrum [WTAS](https://wgas-autismus.org/tagung-wtas/ "Tagung WTAS")
+
 
